@@ -1,3 +1,4 @@
 # cmake debug
-cmake-build-debug/
-CMakeLists.txt
+/.idea
+/cmake-build-debug/
+/CMakeLists.txt
